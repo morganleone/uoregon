@@ -10,7 +10,7 @@
 <h1> Send an email to UO by copying the template below and emailing to the following UO decison-makers</h1>
   <br>
   
-  <a href="mailto:commencement@uoregon.edu,pres@uoregon.edu,provost@uoregon.edu, vpsl@uoregon.edu, rjt@uoregon.edu, kristyne@uoregon.edu, stripp@uoregon.edu,wilhelms@uoregon.edu"& subject="Regarding Virtual Graduation 2021" Click here to start your email>
+  <a href="mailto:commencement@uoregon.edu,pres@uoregon.edu,provost@uoregon.edu, vpsl@uoregon.edu, rjt@uoregon.edu, kristyne@uoregon.edu, stripp@uoregon.edu,wilhelms@uoregon.edu"? subject="Regarding Virtual Graduation 2021"> Click here to start your email
 
 </a>
   
