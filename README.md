@@ -1,5 +1,4 @@
-# uoregon
-<!DOCTYPE html>
+
 <html lang="en">
 
 <head>
@@ -42,4 +41,4 @@ Best regards,
 A concerned and frustrated student  
       </em></h3>
 <body>
-</html>
+
